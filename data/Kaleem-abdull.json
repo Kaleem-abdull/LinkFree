@@ -21,13 +21,13 @@
     {
       "name": "Subscribe to my YouTube",
       "url": "https://www.youtube.com/channel/UCeR0sR2CSaRT5HWRSs5AeoQ",
-      "icon": "FaYoutube"
+      "icon": "FaYoutubeSquare"
     },
 
     {
       "name": "Follow me on GitHub",
       "url": "https://github.com/Kaleem-abdull/",
-      "icon": "FaGithub"
+      "icon": "SiGithub"
     }
   ]
 }
